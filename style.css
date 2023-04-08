@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    padding: 30px;
+    color: #333; /* Set text color */
+    background-color: #f5f5f5; /* Set background color */
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-align: center; /* Center align heading */
+}
+
+textarea {
+    width: 100%;
+    resize: none;
+  
+}
+
+#counterContainer {
+    margin-top: 10px;
+    text-align: center; /* Center align counter container */
+
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+span {
+    font-weight: bold;
+}
+
